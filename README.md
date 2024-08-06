@@ -1,4 +1,4 @@
-  <h1 align="center">Hi 👋, I'm Rodrigo Font</h1>
+  <h1 align="center">Hi 👋, I'm <br> Rodrigo Font </br> </h1>
 <h3 align="center">I'm a young Frontend/FullStack Student from Uruguay</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RodrigoFont06" alt="RodrigoFont06" /></a> </p>
