@@ -7,7 +7,7 @@
 
 - 👯 Languages i do speak **English (B2) & Spanish (Native)**
 
-- 📫 How to 4reach me **rodrifontperez@proton.me**
+- 📫 How to reach me **rodrifontperez@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
