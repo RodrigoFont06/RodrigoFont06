@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RodrigoFont06" alt="RodrigoFont06" /></a> </p>
 
-- 🌱 I’m currently learning **HTML - CSS - JS - Java - MySQL - C++**
+- 🌱 I’m currently learning **HTML - CSS - JS - Java - MySQL - PHP - Boostrap**
 
 - 👯 Languages i do speak **English (B2) & Spanish (Native)**
 
