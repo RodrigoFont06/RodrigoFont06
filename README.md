@@ -3,11 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RodrigoFont06" alt="RodrigoFont06" /></a> </p>
 
-- 🌱 I’m currently learning **HTML - CSS - JS - Java - MySQL - PHP - Boostrap**
+- 🌱 I’m currently learning **WebSockets - UX / UI - React - Angular - Node.JS **
+
+- 🖥️ Technologies i do know: AJAX Async/Await and XHR - Bootstrap 5 - HTML5 - CSS3 - JavaScript - Java
 
 - 👯 Languages i do speak **English (B2) & Spanish (Native)**
 
-- 📫 How to reach me **rodrifontperez@proton.me**
+- 📫 How to reach me **rofont06@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
