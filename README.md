@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RodrigoFont06" alt="RodrigoFont06" /></a> </p>
 
-- 🌱 I’m currently learning **WebSockets - UX / UI - React - Angular - Node.JS **
+- 🌱 I’m currently learning **WebSockets - UX / UI - React - Angular - Node.JS**
 
 - 🖥️ Technologies i do know: AJAX Async/Await and XHR - Bootstrap 5 - HTML5 - CSS3 - JavaScript - Java
 
