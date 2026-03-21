@@ -1,8 +1,6 @@
   <h1 align="center">Hi 👋, I'm Rodrigo Font </h1>
 <h3 align="center">I'm a young Frontend/FullStack Student from Uruguay</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RodrigoFont06" alt="RodrigoFont06" /></a> </p>
-
 - 🌱 I’m currently learning **WebSockets - Angular - Node.JS - TypeScript**
 
 - 🖥️ Technologies i do know: AJAX Async/Await and XHR - Bootstrap 5 - HTML5 - CSS3 - JavaScript - Java - Tailwind - React 
